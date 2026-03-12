@@ -1,0 +1,72 @@
+OLIVE PEACOCK EYE LEAF SPOT (Spilocaea oleaginea / Fusicladium oleagineum)
+
+OVERVIEW
+Olive peacock eye, also known as olive leaf spot or bird's eye spot, is the most common and economically significant foliar disease of olive trees worldwide. It is caused by the fungus Spilocaea oleaginea (teleomorph: Fusicladium oleagineum). The disease primarily affects leaves but can also infect petioles, fruit, and fruit stalks.
+
+SYMPTOMS
+- Circular, dark greenish-brown to black spots appear on the upper surface of leaves.
+- Spots are typically 2-10 mm in diameter with a characteristic yellow halo, resembling a peacock's eye.
+- As the disease progresses, the spots may coalesce, causing large necrotic areas.
+- Severely affected leaves turn yellow and fall prematurely (defoliation).
+- On fruit, small brown spots can appear, reducing quality and oil content.
+- Defoliation weakens the tree and reduces the following year's yield.
+
+DISEASE CYCLE
+- The fungus survives on infected fallen leaves and on lesions on attached leaves.
+- Spores (conidia) are dispersed by rain splash during cool, wet weather.
+- Infection is most active during autumn, winter, and spring when temperatures range from 5-20°C with high humidity.
+- The incubation period is 1-6 months depending on temperature and moisture.
+- Hot, dry summers slow disease development.
+
+FAVORABLE CONDITIONS
+- Cool temperatures (optimum 15-18°C)
+- High relative humidity (above 80%)
+- Frequent rainfall or prolonged leaf wetness
+- Poor air circulation in dense canopies
+- Shaded, north-facing groves
+
+TREATMENT AND MANAGEMENT
+
+1. Chemical Control (Fungicides):
+   - Copper-based fungicides (Bordeaux mixture, copper hydroxide, copper oxychloride) are the primary treatment.
+   - Apply preventive copper sprays in autumn (before the rainy season) and again in late winter/early spring.
+   - Recommended timing: first application in October-November, second in February-March.
+   - Dosage: Follow manufacturer label; typically 300-500 g metallic copper per hectare.
+   - Systemic fungicides (e.g., difenoconazole, tebuconazole) can be used in severe cases.
+   - Rotate fungicide classes to prevent resistance development.
+
+2. Cultural Practices:
+   - Prune trees regularly to improve air circulation and light penetration within the canopy.
+   - Remove and destroy fallen infected leaves to reduce inoculum.
+   - Avoid overhead irrigation; use drip irrigation instead.
+   - Maintain proper tree spacing to allow air movement.
+   - Apply balanced fertilization; avoid excessive nitrogen which promotes dense, susceptible growth.
+
+3. Resistant Varieties:
+   - Some cultivars show higher tolerance: Leccino, Frantoio, and Koroneiki.
+   - Susceptible cultivars include: Coratina, Ascolana, and Picholine.
+   - When establishing new groves, consider planting resistant or tolerant varieties.
+
+4. Biological Control:
+   - Research on biocontrol agents (Bacillus subtilis, Trichoderma spp.) shows promise but commercial products are limited.
+   - Organic-approved copper formulations are available for organic olive production.
+
+5. Integrated Pest Management (IPM):
+   - Monitor disease incidence regularly by inspecting leaves for early symptoms.
+   - Use weather-based disease models to time fungicide applications.
+   - Combine cultural practices with targeted chemical applications.
+   - Maintain records of disease severity to track management effectiveness.
+
+ECONOMIC IMPACT
+- Severe infections can cause 20-30% defoliation, leading to significant yield losses.
+- Fruit quality and oil content are reduced in infected trees.
+- Chronic infections weaken trees over multiple seasons.
+- Early and consistent management is more cost-effective than treating severe outbreaks.
+
+HEALTHY OLIVE LEAF CHARACTERISTICS
+- Healthy olive leaves are elongated, lance-shaped, 4-8 cm long.
+- Upper surface is dark green and smooth.
+- Lower surface is silvery-gray due to dense trichomes (hair-like structures).
+- Leaves are arranged oppositely on branches.
+- Healthy leaves remain on the tree for 2-3 years before natural senescence.
+- No spots, discoloration, or premature yellowing.
